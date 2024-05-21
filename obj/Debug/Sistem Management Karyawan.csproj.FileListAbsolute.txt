@@ -1,0 +1,12 @@
+C:\Users\MohShobirin\source\repos\Sistem Management Karyawan\bin\Debug\Sistem Management Karyawan.exe.config
+C:\Users\MohShobirin\source\repos\Sistem Management Karyawan\bin\Debug\Sistem Management Karyawan.exe
+C:\Users\MohShobirin\source\repos\Sistem Management Karyawan\bin\Debug\Sistem Management Karyawan.pdb
+C:\Users\MohShobirin\source\repos\Sistem Management Karyawan\obj\Debug\Sistem Management Karyawan.csproj.AssemblyReference.cache
+C:\Users\MohShobirin\source\repos\Sistem Management Karyawan\obj\Debug\Sistem_Management_Karyawan.Employee.resources
+C:\Users\MohShobirin\source\repos\Sistem Management Karyawan\obj\Debug\Sistem_Management_Karyawan.Form1.resources
+C:\Users\MohShobirin\source\repos\Sistem Management Karyawan\obj\Debug\Sistem_Management_Karyawan.Properties.Resources.resources
+C:\Users\MohShobirin\source\repos\Sistem Management Karyawan\obj\Debug\Sistem Management Karyawan.csproj.GenerateResource.cache
+C:\Users\MohShobirin\source\repos\Sistem Management Karyawan\obj\Debug\Sistem Management Karyawan.csproj.CoreCompileInputs.cache
+C:\Users\MohShobirin\source\repos\Sistem Management Karyawan\obj\Debug\Sistem Management Karyawan.exe
+C:\Users\MohShobirin\source\repos\Sistem Management Karyawan\obj\Debug\Sistem Management Karyawan.pdb
+C:\Users\MohShobirin\source\repos\Sistem Management Karyawan\obj\Debug\Sistem_Management_Karyawan.nfok.resources
